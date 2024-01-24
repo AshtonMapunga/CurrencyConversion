@@ -1,0 +1,2 @@
+com/jetpack/currencyconverter/BuildConfig.java
+ com.jetpack.currencyconverter.BuildConfig
